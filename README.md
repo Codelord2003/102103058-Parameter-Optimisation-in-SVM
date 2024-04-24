@@ -18,4 +18,4 @@ Throughout the optimization procedure, the highest accuracy achieved and the cor
 <img width="570" alt="image" src="https://github.com/Codelord2003/102103058-Parameter-Optimisation-in-SVM/assets/95679005/305146e0-2312-4c67-9c55-bdadc8571df1">
 
 # Conclusion
-We get the Sample 2 with th ehighest accuracy of 0.8
+We get the Sample 2 with the highest accuracy of 0.8
